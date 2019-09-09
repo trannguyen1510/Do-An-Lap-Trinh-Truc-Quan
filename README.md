@@ -1,4 +1,4 @@
-# Phan Mem Quan Ly Nha Hang
+# Phần mềm quản lý nhà hàng
 ### Team 4
 
 
